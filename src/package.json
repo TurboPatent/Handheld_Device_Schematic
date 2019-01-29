@@ -1,0 +1,196 @@
+{
+  "name": "Handheld_Device_Schematic",
+  "description": "Apple's front and back schematic view of handheld device",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 111,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 2,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p><span data-role=\"tag\" data-value=\"1b1f2cb1-9a38-4107-07d0-db6d8206248e\" id=\"idbb470d59-d9ee-6303-203f-ed670124ed02\" data-type=\"figure\">Figure 1</span>&nbsp;is a <span data-role=\"tag\" data-value=\"4ab6d5e0-0259-81f6-a9e6-a308d898a05b\" id=\"id2da23425-ae6c-406e-a354-dd6ecf209c36\" data-type=\"term\">schematic front view</span> of a <span data-role=\"tag\" data-value=\"4b09bf94-0ed6-b86a-b419-85f1e2aece55\" id=\"id694e5bf1-dd23-8424-efea-986fd8528f4b\" data-type=\"drawingObject\">handheld device 100</span>&nbsp;representing one embodiment</p>",
+      "<p><span data-role=\"tag\" data-value=\"0c63da13-25e4-2a12-98ec-01026d63d56a\" id=\"id3de6526f-0cba-3594-e632-90bf9cc2db35\" data-type=\"figure\">Figure 2</span>&nbsp;is a schematic <span data-role=\"tag\" data-value=\"db5f4f0d-68d7-78ea-2fd3-519b991d4100\" id=\"id65889502-3f18-c53c-8a2f-c80ae690cb6b\" data-type=\"term\">back</span> <span data-role=\"tag\" data-value=\"7b794934-4b5b-88a8-66b2-52bf8d05e3e4\" id=\"iddbaeb931-1f95-be0d-2fd5-bc659db837bf\" data-type=\"term\">view</span> of the <span data-role=\"tag\" data-value=\"4b09bf94-0ed6-b86a-b419-85f1e2aece55\" id=\"id566dc48c-f48e-1274-96a1-a2a8a7126abc\" data-type=\"drawingObject\">handheld device 100</span>&nbsp;illustrated in <span data-role=\"tag\" data-value=\"1b1f2cb1-9a38-4107-07d0-db6d8206248e\" id=\"iddef6ac10-d18b-0555-a341-9eb49eaca890\" data-type=\"figure\">Figure 1</span></p>"
+    ],
+    "parts": [
+      {
+        "name": "handheld device",
+        "number": 100
+      },
+      {
+        "name": "opening loop block",
+        "number": 102
+      },
+      {
+        "name": "input structures",
+        "number": 104
+      },
+      {
+        "name": "GUI",
+        "number": 106
+      },
+      {
+        "name": "window a",
+        "number": 108
+      },
+      {
+        "name": "image capture device",
+        "number": 110
+      },
+      {
+        "name": "window b",
+        "number": 112
+      },
+      {
+        "name": "biometric sensor",
+        "number": 114
+      },
+      {
+        "name": "enclosure",
+        "number": 116
+      },
+      {
+        "name": "display",
+        "number": 118
+      },
+      {
+        "name": "icon(s)",
+        "number": 120
+      },
+      {
+        "name": "window c",
+        "number": 202
+      },
+      {
+        "name": "window d",
+        "number": 204
+      },
+      {
+        "name": "strobe",
+        "number": 206
+      }
+    ],
+    "terms": [
+      "GUI",
+      "macbook®",
+      "window(s)",
+      "access",
+      "appearance",
+      "applications",
+      "camera application",
+      "back",
+      "calif",
+      "color",
+      "combination",
+      "completion",
+      "components",
+      "component",
+      "certain components",
+      "concealed component",
+      "concealed components",
+      "hidden component",
+      "interior components",
+      "suitable component",
+      "notebook computer",
+      "tablet computer",
+      "window controller",
+      "cupertino",
+      "display cutouts",
+      "window cutouts",
+      "physical damage",
+      "such a determination",
+      "device",
+      "image capture device",
+      "electronic device",
+      "handheld device",
+      "such devices",
+      "display",
+      "transparent OLED display",
+      "even the display",
+      "user elects",
+      "embodiments",
+      "other embodiments",
+      "suitable embodiment",
+      "enclosure",
+      "single seamless enclosure",
+      "immediate environment",
+      "example",
+      "exposure",
+      "features",
+      "feature",
+      "image capture feature",
+      "certain component-using features",
+      "such features",
+      "figure",
+      "firmware",
+      "front",
+      "icon(s)",
+      "increased illumination",
+      "Apple Inc",
+      "indication",
+      "touch inputs",
+      "electromagnetic interference",
+      "launch",
+      "layer",
+      "layers",
+      "color layer",
+      "black color layer",
+      "protective cover layer",
+      "infrared layer",
+      "ambient light layer",
+      "lower layers",
+      "other layers",
+      "printing layers",
+      "several printing layers",
+      "touch layer",
+      "capacitive touch layer",
+      "underlying layers",
+      "current level",
+      "visible light",
+      "transparent material",
+      "model",
+      "opacity",
+      "opaque",
+      "personal data organizer",
+      "cellular phone",
+      "portable phone",
+      "glass or plastic",
+      "handheld game platform",
+      "media player",
+      "protection",
+      "infrared radiation",
+      "selection",
+      "biometric sensor",
+      "strobe",
+      "input structures",
+      "electronic display system",
+      "enclosure system",
+      "black enclosure system",
+      "operating system",
+      "technique",
+      "times",
+      "user",
+      "utilization",
+      "view",
+      "schematic front view",
+      "wear",
+      "windows",
+      "window a",
+      "associated window",
+      "more or fewer windows",
+      "two windows",
+      "window b",
+      "window c",
+      "window d"
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/Handheld_Device_Schematic"
+}
